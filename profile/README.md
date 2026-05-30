@@ -80,7 +80,7 @@ Cross-tool **AI session & memory manager**. A networked knowledge graph with tea
 ### 🤝 Connect · 关注与社区
 
 🌐 **[mqttsnet.com](https://mqttsnet.com)**　·　💬 微信公众号 **MqttsNet**（微信搜一搜）　·　📍 Beijing, China
-
+<img src="profile/wechat-mqttsnet.png" width="160" alt="微信公众号 MqttsNet">
 <sub>关注微信公众号 <b>MqttsNet</b>，获取 ThingLinks / ThingLLM 的更新、教程与社区动态。</sub>
 
 <br/>
