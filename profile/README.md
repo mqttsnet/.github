@@ -83,10 +83,9 @@ Cross-tool **AI session & memory manager**. A networked knowledge graph with tea
 
 <sub>关注微信公众号 <b>MqttsNet</b>，获取 ThingLinks / ThingLLM 的更新、教程与社区动态。</sub>
 
-<!-- 想显示公众号二维码：把图片传到本仓库 profile/wechat-mqttsnet.png，然后取消下面这行注释（务必用绝对 raw 链接，注意默认分支 main/master）
 <br/>
+
 <img src="https://raw.githubusercontent.com/mqttsnet/.github/main/profile/wechat-mqttsnet.png" width="150" alt="微信公众号 MqttsNet">
--->
 
 <br/>
 
