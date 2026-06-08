@@ -24,7 +24,7 @@ We build a family of open-source **“Thing”** tools that span the full arc fr
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🔗 ThingLinks · 物联网
 
@@ -37,7 +37,20 @@ Enterprise-grade **IoT platform**. MQTT / HTTP / CoAP / TCP / Modbus, rule engin
 → **[mqttsnet/thinglinks](https://github.com/mqttsnet/thinglinks)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🤖 ThingLinks Skills · 技能 &nbsp;`new`
+
+[![stars](https://img.shields.io/github/stars/mqttsnet/thinglinks-skills?style=flat-square&label=stars)](https://github.com/mqttsnet/thinglinks-skills)
+
+Official **Agent Skills** for the stack — turn any AI agent (Claude Code / Codex / Cursor) into a ThingLinks expert across cloud, framework, frontend & BifroMQ plugins.
+
+官方 **Agent Skills**：让 AI Agent 精通 ThingLinks 云端 / 框架 / 前端 / BifroMQ 插件全栈，一行 `npx skills add` 安装。
+
+→ **[mqttsnet/thinglinks-skills](https://github.com/mqttsnet/thinglinks-skills)**
+
+</td>
+<td width="33%" valign="top">
 
 ### 🧠 ThingLLM · AI &nbsp;`new`
 
@@ -51,8 +64,8 @@ Cross-tool **AI session & memory manager**. A networked knowledge graph with tea
 </tr>
 </table>
 
-> **Physical world → ThingLinks　·　Intelligent world → ThingLLM**
-> 物理世界交给 ThingLinks，智能世界交给 ThingLLM。
+> **Physical world → ThingLinks　·　Build with AI → ThingLinks Skills　·　Intelligent world → ThingLLM**
+> 物理世界交给 ThingLinks，AI 辅助开发交给 ThingLinks Skills，智能世界交给 ThingLLM。
 
 ---
 
